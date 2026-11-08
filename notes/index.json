@@ -1,32 +1,26 @@
 [
- {
-  "id": "BdWnOWSegjU",
-  "title": "比特幣黑天鵝，照樣強韌",
-  "channel": "鴨密貨幣",
-  "date": "2026-11-07",
-  "url": "https://www.youtube.com/watch?v=BdWnOWSegjU",
-  "tags": [
-   "鴨密貨幣",
-   "比特幣",
-   "山寨幣",
-   "美股"
-  ],
-  "summary": "多起利空下比特幣仍未破短期低點，作者視為牛市特徵；提醒信用利差飆升與美股高位風險。",
-  "file": "notes/BdWnOWSegjU.md"
- },
- {
-  "id": "wVW91TjYxr0",
-  "title": "實況直播｜20261107：交易紀律、AI 交易與市場時間週期",
-  "channel": "2140 加密社群",
-  "date": "2026-11-07",
-  "url": "https://www.youtube.com/live/wVW91TjYxr0",
-  "tags": [
-   "直播",
-   "加密貨幣",
-   "交易紀律",
-   "AI"
-  ],
-  "summary": "以交易計畫與停損降低消息干擾，討論 AI 交易的實測與可解釋性，並回顧比特幣時間週期及山寨幣結構。",
-  "file": "notes/wVW91TjYxr0.md"
- }
+  {
+    "id": "BdWnOWSegjU",
+    "title": "比特幣黑天鵝，照樣強韌",
+    "channel": "鴨密貨幣",
+    "date": "2026-11-07",
+    "url": "https://www.youtube.com/watch?v=BdWnOWSegjU",
+    "tags": [
+      "鴨密貨幣"
+    ],
+    "summary": "多起利空下比特幣仍未破短期低點，作者視為牛市特徵；提醒信用利差飆升與美股高位風險。",
+    "file": "notes/BdWnOWSegjU.md"
+  },
+  {
+    "id": "wVW91TjYxr0",
+    "title": "實況直播｜20261107：交易紀律與加密市場價格提醒",
+    "channel": "2140 加密社群",
+    "date": "2026-11-07",
+    "url": "https://www.youtube.com/live/wVW91TjYxr0",
+    "tags": [
+      "2140 加密社群"
+    ],
+    "summary": "整理比特幣與以太幣的關鍵價位、跌破風險，以及加密貨幣交易紀律與週期限制。",
+    "file": "notes/wVW91TjYxr0.md"
+  }
 ]
