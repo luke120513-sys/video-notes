@@ -1,1 +1,17 @@
-[{"id":"wVW91TjYxr0","title":"實況直播｜20261107","channel":"2140 加密社群","date":"2026-11-07","url":"https://www.youtube.com/live/wVW91TjYxr0","tags":["直播","加密貨幣"],"summary":"2140 加密社群 2026/11/07 實況直播，全長約 3 小時 43 分。內容筆記待補。","file":"notes/wVW91TjYxr0.md"}]
+[
+ {
+  "id": "wVW91TjYxr0",
+  "title": "實況直播｜20261107：交易紀律、AI 交易與市場時間週期",
+  "channel": "2140 加密社群",
+  "date": "2026-11-07",
+  "url": "https://www.youtube.com/live/wVW91TjYxr0",
+  "tags": [
+   "直播",
+   "加密貨幣",
+   "交易紀律",
+   "AI"
+  ],
+  "summary": "以交易計畫與停損降低消息干擾，討論 AI 交易的實測與可解釋性，並回顧比特幣時間週期及山寨幣結構。",
+  "file": "notes/wVW91TjYxr0.md"
+ }
+]
