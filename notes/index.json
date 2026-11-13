@@ -1,5 +1,41 @@
 [
   {
+    "id": "SNrErZu1dyo",
+    "title": "比特幣買點區間，已經到來",
+    "channel": "鴨密貨幣",
+    "date": "2026-11-13",
+    "url": "https://www.youtube.com/watch?v=SNrErZu1dyo",
+    "tags": [
+      "鴨密貨幣"
+    ],
+    "summary": "比特幣跌到 71,000，比作者預期的 73,000 更深；0.618（約 69,000）是關鍵，右側確認看 76,500 放量突破；以太幣結構薄弱，需站回 2,350 才轉多。",
+    "file": "notes/SNrErZu1dyo.md"
+  },
+  {
+    "id": "do68BT_-ePI",
+    "title": "🔴加密貨幣，多頭認輸（直播）",
+    "channel": "鴨密貨幣",
+    "date": "2026-11-12",
+    "url": "https://www.youtube.com/watch?v=do68BT_-ePI",
+    "tags": [
+      "鴨密貨幣"
+    ],
+    "summary": "直播開場比特幣約 71,200–71,300，作者說原以為 73,000 該守住卻被直接跌穿；69,000 是多頭最後防線，跌破熊市低點 57,000 才算熊市；以太幣幣本位止損 1,499，極端情況可能更低。",
+    "file": "notes/do68BT_-ePI.md"
+  },
+  {
+    "id": "XHcKma9_8CA",
+    "title": "比特幣，牛市支撐，必須守住",
+    "channel": "鴨密貨幣",
+    "date": "2026-11-12",
+    "url": "https://www.youtube.com/watch?v=XHcKma9_8CA",
+    "tags": [
+      "鴨密貨幣"
+    ],
+    "summary": "引用 Doctor Profit 觀點，比特幣 68–69K 為最壞情況支撐，作者也認為 69,000 不能破；S&P 500 若再跌約 18% 可能把幣圈拖入熊市；短期持有者投降、淨空頭部位創高被視為相對低點訊號。",
+    "file": "notes/XHcKma9_8CA.md"
+  },
+  {
     "id": "xadFF0SO9OM",
     "title": "台灣出口商與金融業，都在錢往美國，這就是台灣經濟強勁，但台幣持續走弱的原因",
     "channel": "王伯達經濟觀點",
@@ -10,6 +46,30 @@
     ],
     "summary": "講者指出經濟成長亮眼但新台幣走弱，主因是出口美元以對美投資與貿易授信留在海外；央行改為賣匯防貶值，市場利率與房貸成本已上升。",
     "file": "notes/xadFF0SO9OM.md"
+  },
+  {
+    "id": "uIS7ShsZrCY",
+    "title": "比特幣，持續暴跌，太恐慌了",
+    "channel": "鴨密貨幣",
+    "date": "2026-11-11",
+    "url": "https://www.youtube.com/watch?v=uIS7ShsZrCY",
+    "tags": [
+      "鴨密貨幣"
+    ],
+    "summary": "比特幣回撤到上漲段 0.5（約 72,500），作者視 0.618（約 69,000）為最後極限；量價結構仍屬多頭，以太幣已回到 0.618，作者長線多單止損掛在熊市底部。",
+    "file": "notes/uIS7ShsZrCY.md"
+  },
+  {
+    "id": "5fzYJo4jXKw",
+    "title": "🔴持續暴跌，太恐慌了（直播）",
+    "channel": "鴨密貨幣",
+    "date": "2026-11-10",
+    "url": "https://www.youtube.com/watch?v=5fzYJo4jXKw",
+    "tags": [
+      "鴨密貨幣"
+    ],
+    "summary": "直播時比特幣約 72,000–73,000，作者認為仍在預期內，69,000 是最後極限、右側做多等站穩 76,500；以太幣直播中跌破 2,000，作者幣本位多單止損 1,499；S&P 500 距高點僅跌約 6%，仍有下跌空間是最大風險。",
+    "file": "notes/5fzYJo4jXKw.md"
   },
   {
     "id": "L_z4eAls6ts",
@@ -36,18 +96,6 @@
     "file": "notes/_dQcjT_stro.md"
   },
   {
-    "id": "Ko6Tc7cPIsc",
-    "title": "🔴恐慌指數，瞬間暴漲（直播）",
-    "channel": "鴨密貨幣",
-    "date": "2026-11-06",
-    "url": "https://www.youtube.com/watch?v=Ko6Tc7cPIsc",
-    "tags": [
-      "鴨密貨幣"
-    ],
-    "summary": "VIX 大漲、S&P 500 回撥；比特幣插針掃流動性後有跌不下去跡象，7.3 萬觀察、6.9 萬極限；以太幣未破前低、相對抗跌。",
-    "file": "notes/Ko6Tc7cPIsc.md"
-  },
-  {
     "id": "BdWnOWSegjU",
     "title": "比特幣黑天鵝，照樣強韌",
     "channel": "鴨密貨幣",
@@ -70,6 +118,18 @@
     ],
     "summary": "整理比特幣與以太幣的關鍵價位、跌破風險，以及加密貨幣交易紀律與週期限制。",
     "file": "notes/wVW91TjYxr0.md"
+  },
+  {
+    "id": "Ko6Tc7cPIsc",
+    "title": "🔴恐慌指數，瞬間暴漲（直播）",
+    "channel": "鴨密貨幣",
+    "date": "2026-11-06",
+    "url": "https://www.youtube.com/watch?v=Ko6Tc7cPIsc",
+    "tags": [
+      "鴨密貨幣"
+    ],
+    "summary": "VIX 大漲、S&P 500 回撥；比特幣插針掃流動性後有跌不下去跡象，7.3 萬觀察、6.9 萬極限；以太幣未破前低、相對抗跌。",
+    "file": "notes/Ko6Tc7cPIsc.md"
   },
   {
     "id": "cFlivrT3sBM",
